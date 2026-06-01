@@ -19,6 +19,7 @@
     .card h3 { color: #0a2540; margin-bottom: 10px; }
     footer { background: #0a2540; color: white; text-align: center; padding: 20px; margin-top: 40px; }
     .btn { display: inline-block; background: #ff6b35; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; margin-top: 15px; }
+    .contact-info a { color: #0a2540; text-decoration: none; font-weight: bold; }
   </style>
 </head>
 <body>
@@ -61,10 +62,10 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p style="text-align:center;">Ready to work together? Reach out and let’s build something great.</p>
-    <p style="text-align:center; margin-top:20px;">
-      📧 Email: your.email@example.com <br>
-      📞 Phone: +254 7XX XXX <br>
-      📍 Location: Kenya
+    <p style="text-align:center; margin-top:20px;" class="contact-info">
+      📧 Email: <a href="mailto:geraldoprince7043@gmail.com">geraldoprince7043@gmail.com</a> <br>
+      📞 Phone/WhatsApp: <a href="tel:+254702094371">+254 702 094 371</a> <br>
+      📍 Location: Nairobi, Kenya
     </p>
   </section>
 
